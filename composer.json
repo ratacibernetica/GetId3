@@ -1,5 +1,5 @@
 {
-    "name": "phansys/getid3",
+    "name": "ratacibernetica/getid3",
     "description": "This fork of GetId3 library updates to PSR-2 / PSR-4 CS, adds namespaces and makes it installable by composer.",
     "keywords": ["getid3", "tags", "metadata"],
     "type": "library",
